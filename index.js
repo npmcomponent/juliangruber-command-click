@@ -1,7 +1,7 @@
-var isUrl = require('regexps').url;
-var escape = require('escape-regexp');
-var Pressed = require('key-pressed');
-var findUrls = require('find-urls');
+var isUrl = require('component-regexps').url;
+var escape = require('component-escape-regexp');
+var Pressed = require('juliangruber-key-pressed');
+var findUrls = require('juliangruber-find-urls');
 
 /**
  * Expose `clickable`.

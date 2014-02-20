@@ -1,0 +1,14 @@
+{
+  "name": "juliangruber-command-click",
+  "description": "Open links via command-click",
+  "version": "0.0.1",
+  "keywords": [],
+  "main": "index.js",
+  "dependencies": {
+    "component-regexps": "git://github.com/npmcomponent/component-regexps.git",
+    "component-escape-regexp": "git://github.com/npmcomponent/component-escape-regexp.git",
+    "juliangruber-key-pressed": "git://github.com/npmcomponent/juliangruber-key-pressed.git",
+    "juliangruber-find-urls": "git://github.com/npmcomponent/juliangruber-find-urls.git"
+  },
+  "license": "MIT"
+}
